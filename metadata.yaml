@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Braakensiek, Joh. (Johan Coenraad)
     alias: Braakensiek, Johan Coenraad
-    birthdate: &id001 1858
+    birthdate: 1858
     deathdate: 1940
     gutenberg_agent_id: '6460'
     url: http://www.gutenberg.org/2009/agents/6460
@@ -16,12 +16,14 @@ creator:
   author:
     agent_name: Kieviet, Cornelis Johannes
     alias: Kieviet, C. Joh.
-    birthdate: *id001
+    birthdate: 1858
     deathdate: 1931
     gutenberg_agent_id: '2188'
     url: http://www.gutenberg.org/2009/agents/2188
     wikipedia: http://nl.wikipedia.org/wiki/Cornelis_Johannes_Kieviet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29712#Uit-het-leven-van-Dik-Trom
 gutenberg_issued: '2009-08-17'
 gutenberg_type: Text
 identifiers:
